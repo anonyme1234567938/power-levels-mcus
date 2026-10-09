@@ -1,0 +1,13 @@
+build/
+.cache/
+Release/
+results/*
+!results/pico2/
+!results/pico2_multicores/
+!results/esp32/
+!results/stm32/
+!results/*.r
+*.pdf
+*.png
+managed_components/
+compile_commands.json
